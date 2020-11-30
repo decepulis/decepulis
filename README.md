@@ -1,4 +1,1 @@
-## Hi there 👋
-
-Did you know you can add a README to your GitHub profile? Isn't that _neat_??
-
+One of these days, I might finally finish a personal project. You'll see.
